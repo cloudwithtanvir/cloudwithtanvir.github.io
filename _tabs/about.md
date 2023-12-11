@@ -8,8 +8,6 @@ title: About
 # MIT License
 ---
 
-<img style="float: right;" src="https://github.com/tanvirewu.png?size=200">
-
 👋 Hello! I'm Tanvir Ahmed 👨‍💻
 
 I'm a passionate **cloud engineer** and **DevOps specialist** with a strong background in optimizing software release lifecycles. Holding a BSc in Computer Engineering from East-West University, I've embarked on a dynamic journey in the tech world.

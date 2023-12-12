@@ -2,7 +2,7 @@
 layout: post
 title: Securing Your CI/CD Pipeline Managing Secrets with Git, Docker, Kubernetes, and Popular Key Vaults
 categories: [ Git, Docker, Kubernetes, Key Vaults, AWS, deployment, react,Docker]
-tags: [pytKey Vault]
+tags: [Vault, Docker, Key Vaults]
 ---
 
 # Securing Your CI/CD Pipeline Managing Secrets with Git, Docker, Kubernetes, and Popular Key Vaults

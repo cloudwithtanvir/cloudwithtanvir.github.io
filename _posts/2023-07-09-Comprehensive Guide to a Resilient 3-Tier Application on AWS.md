@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Architecting Excellence: A Comprehensive Guide to a Resilient 3-Tier Application on AWS
+title: A Comprehensive Guide to a Resilient 3-Tier Application on AWS
 categories: [AWS, Architecture, Amazon S3]
 tags: [AWS]
 ---
 
 
-# Architecting Excellence: A Comprehensive Guide to a Resilient 3-Tier Application on AWS
+## Architecting Excellence: A Comprehensive Guide to a Resilient 3-Tier Application on AWS
 
 ## Introduction
 

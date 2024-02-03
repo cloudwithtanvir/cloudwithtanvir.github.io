@@ -47,15 +47,16 @@ Navigate to the AWS Management Console and open the ECS Dashboard. Click on "Clu
 
 https://aws.amazon.com/blogs/compute/building-deploying-and-operating-containerized-applications-with-aws-fargate/
 
-![alt text](image.png)
+![Creating Cluster](images/ecs/CreateCluster.jpg)
 
-![alt text](image-1.png)
+
+
 #### Step 2: Define Tasks with ECS Task Definitions
 Move to the "Task Definitions" section on the ECS Dashboard. Click "Create new Task Definition," select the launch type (Fargate), and define your container settings, resource requirements, and networking.
 
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html
 
-![alt text](image-2.png)
+![Task Definitions](images/ecs/taskdefination.jpg)
 
 #### Step 3: Deploy Containers with Fargate
 Return to the ECS Dashboard and choose your created Task Definition. Click "Run Task," choose the launch type as Fargate, and configure your task settings. Review and confirm your settings, and AWS Fargate will handle the deployment of your containers.

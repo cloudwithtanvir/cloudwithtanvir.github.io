@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering AWS ECS: Building Scalable Apps in the Cloud
+title: Mastering AWS ECS :- Building Scalable Apps in the Cloud
 categories: [ECS,AWS Fargate, Docker, Deployment, Serverless]
 tags: [AWS]
 ---
